@@ -1,4 +1,4 @@
 module.exports = {
-  clientId: '<right your own>',
-  clientSecret: 'right your own',
+  clientId: '<add your own>',
+  clientSecret: 'add your own',
 }
