@@ -7,6 +7,6 @@ I have used jDoodle apis for compiling the code.
 heroku link: https://codify-online-compiler.herokuapp.com/
 
 # Installation:
-1- clone this project then cd codify-online-compiler
+1- clone this project then cd codify-online-compiler.
 2- change config file and replace key with your jDoodle client key.
-3- npm install  && cd client && npm install
+3- npm install  && cd client && npm install.
